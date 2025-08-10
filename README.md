@@ -34,7 +34,7 @@ git clone https://github.com/iansouza-dev/to-do-list.js.git
 
 [x] Salvar no localStorage
 
-[] Marcar tarefas como concluídas (riscar)
+[x] Marcar tarefas como concluídas (riscar)
 
 [] Filtro: Todas / Pendentes / Concluídas
 
